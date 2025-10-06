@@ -5,6 +5,7 @@ Goal:
  - Make a 64-Bit GPU
  - Make a 64-Bit Pipelined CPU
  - Hardware Performance Simulator
+
 Skills:
  - C++
  - OOP
@@ -12,6 +13,7 @@ Skills:
  - Digital Electronics/Logic
  - Simulation Development
  - Low-Level C++
+
 ToDo:
  - Optimize Half-Adder
  - Optimize Full-Adder
