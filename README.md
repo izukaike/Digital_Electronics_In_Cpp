@@ -2,8 +2,7 @@
 I want to learn more about digital logic and I want to keep up with my C++. Here are my projects! This stemmed from embedded program interview where I got a question to add 2 integers without using the "+" operator and my mind went straight to logical operations and I thought to myself that I could really expand on this project.
 
 Goal:
- - Render a photo on 64-Bit GPU
- - Run a SPI interface on a 64-Bit Pipelined CPU
+ - Have a reliable power and computation simulator to optimize computing power
 
 Skills:
  - C++
